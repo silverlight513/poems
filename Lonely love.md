@@ -16,7 +16,7 @@ Couplet topics:
 - Maybe they're hard to find
 - Once you've found the right people, the calm comes
 
-1:
+1. 
 Enveloped and surrounded by sky touch mountains
 Consumed by calmness in these peaceful surroundings
 
@@ -33,5 +33,5 @@ Paths and roads all unfamiliar have me lead astray
 Unable to reach that desired place today
 
 5.
-
+When you reach the peak, becoming satisfaction
 Peaceful and silent are these kind times ??? Not enough syllabels
