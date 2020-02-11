@@ -9,8 +9,8 @@ Streets fall silent from absent kin
 Bustling arcades, crowds tucked within
 
 1.3.
-Hidden gems appear under roof
-
+Hidden gems appear under roof <Maybe switch "appear">
+<Describe the hidden gems>
 
 2.1.
 When skies clear and murky clouds fade
