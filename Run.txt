@@ -1,6 +1,51 @@
 Working title: Run
 
-1.
+1.1.
+
+
+1.2.
+
+
+1.3.
+
+
+2.1.
+
+
+2.2.
+
+
+2.3.
+
+
+3.1.
+
+
+3.2.
+
+
+3.3.
+
+
+4.1.
+
+
+4.2.
+
+
+4.3.
+
+
+5.1.
+
+
+5.2.
+
+
+5.3.
+
+
+5.4.
 
 
 More Info:
@@ -15,6 +60,8 @@ It's about that scared moment when you're not sure a loved one will still be hom
 Considering the prose, I'm tempted to write this using similar metres to Dylan Thomas' Do not go gentle into that good night (https://en.wikipedia.org/wiki/Villanelle#Form)
 
 Metres:
+four stanzas of three lines followed by a last stanza of 4 lines.
+Every middle line must rhyme with themselves.
+Alternate refrains from stanza to stanza and use both refrains on the last stanza
 
-
-Couplet topics
+Tercet topics
