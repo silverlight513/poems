@@ -60,8 +60,13 @@ It's about that scared moment when you're not sure a loved one will still be hom
 Considering the prose, I'm tempted to write this using similar metres to Dylan Thomas' Do not go gentle into that good night (https://en.wikipedia.org/wiki/Villanelle#Form)
 
 Metres:
+Every line must be 10 syllables
 four stanzas of three lines followed by a last stanza of 4 lines.
 Every middle line must rhyme with themselves.
 Alternate refrains from stanza to stanza and use both refrains on the last stanza
 
-Tercet topics
+Refrains:
+Go now with haste for it may be too late
+Race now with fast haste before time is past
+
+Tercet topics:
