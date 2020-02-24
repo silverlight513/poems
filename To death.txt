@@ -28,9 +28,12 @@ Finished:
 Reason/Description
 I was working on "Run", my 5th poem and I created this line that didn't quite fit but I liked it and wanted to evolve it. It's about how thinking of the end of your life as if it's now is such a horrible thing to go through.
  > Hate is that to have mind wonder to last
+Since working on this as a villanelle, the "story" feels constricted by the use of refrains. So I'm going to take them away but keep to the original structure.
 
 Metres:
-A short 3 stanza Villanelle
+4 stanzas
+Start and end lines rhyme
+All middle lines rhyme with each other
 10 syllable lines
 3 lines per stanza
 
