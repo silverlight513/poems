@@ -20,3 +20,17 @@
 [Syllable counter](https://www.howmanysyllables.com/syllable_counter/)
 [Synonyms](https://www.thesaurus.com/)
 [Rhyming dictionary](https://www.rhymer.com/)
+
+## Definitions
+
+#### Stanza `pennill`
+
+> a group of lines forming the basic recurring metrical unit in a poem; a verse.
+
+#### Juxtaposition `Cyfosodiad`
+
+> The fact of two things being seen or placed close together with contrasting effect
+
+#### Enjambement
+
+> (in verse) the continuation of a sentence without a pause beyond the end of a line, couplet, or stanza.
