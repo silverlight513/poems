@@ -16,10 +16,10 @@
 
 ## Helpful links
 
-[What is a cynhanedd](http://www.poetsgraves.co.uk/forum/viewtopic.php?t=12138)
-[Syllable counter](https://www.howmanysyllables.com/syllable_counter/)
-[Synonyms](https://www.thesaurus.com/)
-[Rhyming dictionary](https://www.rhymer.com/)
+- [What is a cynhanedd](http://www.poetsgraves.co.uk/forum/viewtopic.php?t=12138)
+- [Syllable counter](https://www.howmanysyllables.com/syllable_counter/)
+- [Synonyms](https://www.thesaurus.com/)
+- [Rhyming dictionary](https://www.rhymer.com/)
 
 ## Definitions
 
