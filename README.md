@@ -12,7 +12,9 @@
 
 ## Inspiration
 
-- The Windhover by Gerard Manley Hopkins
+- Gerard Manley Hopkins (The windhover)
+- Dylan Thomas
+- William Butler Yeats
 
 ## Helpful links
 
