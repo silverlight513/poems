@@ -6,6 +6,10 @@
 4. [Treasures in a rainy city](/Treasures%20in%20a%20rainy%20city.txt)
 5. [To death](/To%20death.txt)
 
+# Snippets
+
+1. [Nature](/Nature.snippet.txt)
+
 ## Inspiration
 
 - The Windhover by Gerard Manley Hopkins
