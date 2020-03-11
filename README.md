@@ -10,6 +10,8 @@
 # Snippets
 
 1. [Nature](/Nature.snippet.txt)
+2. [Beautiful](/Beautiful.snippet.txt)
+3. [Black star](/Black%20star.snippet.txt)
 
 ## Inspiration
 
