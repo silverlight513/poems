@@ -12,7 +12,6 @@
 1. [Nature](/snippets/Nature.snippet.txt)
 2. [Beautiful](/snippets/Beautiful.snippet.txt)
 3. [Black star](/snippets/Black%20star.snippet.txt)
-4. [Coed a'r gwynt](/snippets/Coed%20a'r%20gwynt.snippet.txt)
 
 # Cerddi
 
