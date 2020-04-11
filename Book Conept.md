@@ -8,6 +8,10 @@ A cloth hardback cover in a dark royal blue color with gold/cream engravings. Si
 
 - [The Tower](https://cdn.waterstones.com/bookjackets/large/9780/2413/9780241303092.jpg)
 
+## Content
+
+30 poems seleted from this repositry
+
 ## Layout
 
 The book will be split into two parts. The first being the poems themselves and the second being the details (description, datings, structure) relating to each poem.
