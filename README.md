@@ -7,6 +7,7 @@
 5. [To death](/poems/To%20death.txt)
 6. [Fear](/poems/Fear.txt)
 7. [Out the window](/poems/Out%20the%20window.txt)
+8. [The abandoned bay](/poems/The%20abandoned%20bay.txt)
 
 # Snippets
 
