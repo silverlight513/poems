@@ -8,6 +8,7 @@
 6. [Fear](/poems/Fear.txt)
 7. [Out the window](/poems/Out%20the%20window.txt)
 8. [The abandoned bay](/poems/The%20abandoned%20bay.txt)
+9. [Mind in the mountains](/poems/Mind%20in%20the%20mountains.txt)
 
 # Snippets
 
