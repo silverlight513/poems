@@ -22,6 +22,7 @@
 # Dyfyniad
 
 1. [Coed a'r gwynt](/dyfyniad/Coed%20a'r%20gwynt.dyfyniad.txt)
+2. [Creu caru](dyfyniad/Creu%20caru.dyfyniad.txt)
 
 ## Inspiration
 
