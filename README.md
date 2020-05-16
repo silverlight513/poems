@@ -24,11 +24,17 @@
 1. [Coed a'r gwynt](/dyfyniad/Coed%20a'r%20gwynt.dyfyniad.txt)
 2. [Creu caru](dyfyniad/Creu%20caru.dyfyniad.txt)
 
-## Inspiration
+## Inspiration Writers
 
-- Gerard Manley Hopkins (The windhover)
+- Gerard Manley Hopkins
 - Dylan Thomas
 - William Butler Yeats
+
+## Inspirational Poems
+
+- [The windhover by Gerard Manley Hopkins](https://www.poetryfoundation.org/poems/44402/the-windhover)
+- [Do not go gentle into that good night by Dylan Thomas](https://poets.org/poem/do-not-go-gentle-good-night)
+- [Dreams by Langston Hughes](https://www.poetryfoundation.org/poems/150995/dreams-5d767850da976)
 
 ## Helpful links
 
