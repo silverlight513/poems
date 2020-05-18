@@ -29,6 +29,7 @@
 - Gerard Manley Hopkins
 - Dylan Thomas
 - William Butler Yeats
+- Dafydd ap Gwilym
 
 ## Inspirational Poems
 
