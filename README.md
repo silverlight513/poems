@@ -10,6 +10,7 @@
 8. [The abandoned bay](/poems/The%20abandoned%20bay.txt)
 9. [Mind in the mountains](/poems/Mind%20in%20the%20mountains.txt)
 10. [The red castle](/poems/The%20red%20castle.txt)
+11. [Love letters](/poems/Love%20letters.txt)
 
 # Snippets
 
