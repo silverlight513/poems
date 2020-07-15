@@ -1,4 +1,4 @@
-Working title:
+Working title: The solitary island
 
 1.
 
@@ -12,7 +12,7 @@ Reason/Description:
 I visited Sully island and the place mesmerized me. All the different elements playing together put me at awe.
 I quickly wrote this prose to remember:
   On a stormy day and far away tide
-  Grassy hilltops sit on this Rocky Penninsula
+  Grassy hilltops sit on this Rocky Peninsula
   Waves crash against such lonesome rock
   Extreme gales pull down any erect
   It's Frontline battered and broken
@@ -24,3 +24,9 @@ Syllables per line: 8,8,12,8,12
 Rhyme structure: A,B,C,B,C
 
 Verse topics:
+ - The rocks, paths & tides leading to the island
+ - Rocky steps leading to the grassy saddled top
+ - Wind, the first bombardment to life
+ - Rocks, fallen, submitted to the sea
+ - inhospitable are the conditions 
+ - Life still grows around the shaping lands
