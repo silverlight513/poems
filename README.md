@@ -17,6 +17,7 @@
 1. [Nature](/snippets/Nature.snippet.txt)
 2. [Beautiful](/snippets/Beautiful.snippet.txt)
 3. [Black star](/snippets/Black%20star.snippet.txt)
+4. [My walls](/snippets/My%20walls.snippet.txt)
 
 # Cerddi
 
