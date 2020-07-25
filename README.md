@@ -19,6 +19,7 @@
 3. [Black star](/snippets/Black%20star.snippet.txt)
 4. [My walls](/snippets/My%20walls.snippet.txt)
 5. [Recognition](/snippets/Recognition.snippet.txt)
+6. [Embrace](/snippets/Embrace.snippet.txt)
 
 # Cerddi
 
