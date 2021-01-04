@@ -12,8 +12,9 @@
 10. [The red castle](/poems/The%20red%20castle.txt)
 11. [Love letters](/poems/Love%20letters.txt)
 12. [The solitary island](/poems/The%20solitary%20island.txt)
-13. [Trepidation](/poems/Trepidation.txt)
-14. [Fading worries](/poems/fading%20worries.txt)
+13. [A kind man](/poems/A%20kind%20man.txt)
+14. [Trepidation](/poems/Trepidation.txt)
+15. [Fading worries](/poems/fading%20worries.txt)
 
 # Snippets
 
