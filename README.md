@@ -36,6 +36,7 @@
 - Dylan Thomas
 - William Butler Yeats
 - Dafydd ap Gwilym
+- Halsey
 
 ## Inspirational Poems
 
