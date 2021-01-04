@@ -13,6 +13,7 @@
 11. [Love letters](/poems/Love%20letters.txt)
 12. [The solitary island](/poems/The%20solitary%20island.txt)
 13. [Trepidation](/poems/Trepidation.txt)
+14. [Fading worries](/poems/fading%20worries.txt)
 
 # Snippets
 
