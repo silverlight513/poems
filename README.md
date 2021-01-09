@@ -16,6 +16,7 @@
 14. [Trepidation](/poems/Trepidation.txt)
 15. [Fading worries](/poems/Fading%20worries.txt)
 16. [A friend](/poems/A%20friend.txt)
+17. [Misplaced life](/poems/Misplaced%20life.txt)
 
 # Snippets
 
