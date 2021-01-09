@@ -15,6 +15,7 @@
 13. [A kind man](/poems/A%20kind%20man.txt)
 14. [Trepidation](/poems/Trepidation.txt)
 15. [Fading worries](/poems/fading%20worries.txt)
+16. [A friend](/poems/A%20friend.txt)
 
 # Snippets
 
