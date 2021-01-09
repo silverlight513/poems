@@ -14,7 +14,7 @@
 12. [The solitary island](/poems/The%20solitary%20island.txt)
 13. [A kind man](/poems/A%20kind%20man.txt)
 14. [Trepidation](/poems/Trepidation.txt)
-15. [Fading worries](/poems/fading%20worries.txt)
+15. [Fading worries](/poems/Fading%20worries.txt)
 16. [A friend](/poems/A%20friend.txt)
 
 # Snippets
