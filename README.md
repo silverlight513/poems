@@ -17,6 +17,7 @@
 15. [Fading worries](/poems/Fading%20worries.txt)
 16. [A friend](/poems/A%20friend.txt)
 17. [Misplaced life](/poems/Misplaced%20life.txt)
+18. [Beauty](/poems/Beauty.txt)
 
 # Snippets
 
@@ -28,6 +29,8 @@
 6. [Embrace](/snippets/Embrace.snippet.txt)
 
 # Cerddi
+
+1. [Harddwch](/cerddi/Harddwch.txt)
 
 # Dyfyniadau
 
