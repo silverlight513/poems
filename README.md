@@ -27,6 +27,7 @@
 4. [My walls](/snippets/My%20walls.snippet.txt)
 5. [Recognition](/snippets/Recognition.snippet.txt)
 6. [Embrace](/snippets/Embrace.snippet.txt)
+7. [Poetry](/snippets/Poetry.snippet.txt)
 
 # Cerddi
 
