@@ -18,6 +18,7 @@
 16. [A friend](/poems/A%20friend.txt)
 17. [Misplaced life](/poems/Misplaced%20life.txt)
 18. [Beauty](/poems/Beauty.txt)
+19. [Sweet liars](/poems/Sweet%20liars.txt)
 
 # Snippets
 
