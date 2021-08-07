@@ -30,6 +30,7 @@
 6. [Embrace](/snippets/Embrace.snippet.txt)
 7. [Poetry](/snippets/Poetry.snippet.txt)
 8. [Words](/snippets/Words.snippet.txt)
+9. [Silhouette](/snippets/Silhouette.snippet.txt)
 
 # Cerddi
 
