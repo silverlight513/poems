@@ -20,7 +20,7 @@
 18. [Beauty](/poems/Beauty.txt)
 19. [Sweet liars](/poems/Sweet%20liars.txt)
 20. [Hollowed heart](/poems/Hollowed%20heart.txt)
-21. [Why do I care](/poems/Why%20do%20%20I%20care.txt)
+21. [Why do I care](/poems/Why%20do%20I%20care.txt)
 
 # Snippets
 
