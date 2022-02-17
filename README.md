@@ -34,6 +34,7 @@
 8. [Words](/snippets/Words.snippet.txt)
 9. [Silhouette](/snippets/Silhouette.snippet.txt)
 10. [Blind leaps](/snippets/Blind%20leaps.snippet.txt)
+11. [Rainbow](/snippets/Rainbow.snippet.txt)
 
 # Cerddi
 
