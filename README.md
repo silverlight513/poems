@@ -21,6 +21,7 @@
 19. [Sweet liars](/poems/Sweet%20liars.txt)
 20. [Hollowed heart](/poems/Hollowed%20heart.txt)
 21. [Why do I care](/poems/Why%20do%20I%20care.txt)
+22. [Life in my head](/poems/Life%20in%20my%20head.txt)
 
 # Snippets
 
