@@ -24,6 +24,7 @@
 22. [Life in my head](/poems/Life%20in%20my%20head.txt)
 23. [Chronic infatuation](/poems/Chronic%20infatuation.txt)
 24. [You ignore me](/poems/You%20ignore%20me.txt)
+25. [The pianist](/poems/The%20pianist.txt)
 
 # Snippets
 
