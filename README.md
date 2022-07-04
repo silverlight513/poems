@@ -40,6 +40,7 @@
 10. [Blind leaps](/snippets/Blind%20leaps.snippet.txt)
 11. [Rainbow](/snippets/Rainbow.snippet.txt)
 12. [A mans anger](/snippets/A%20mans%20anger.snippet.txt)
+13. [Confused](/snippets/Confused.snippet.txt)
 
 # Cerddi
 
