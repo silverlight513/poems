@@ -25,6 +25,7 @@
 23. [Chronic infatuation](/poems/Chronic%20infatuation.txt)
 24. [You ignore me](/poems/You%20ignore%20me.txt)
 25. [The pianist](/poems/The%20pianist.txt)
+26. [You're my earworm](/poems/You%27re%20my%20earworm.txt)
 
 # Snippets
 
