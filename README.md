@@ -60,6 +60,7 @@
 - William Butler Yeats
 - Dafydd ap Gwilym
 - Halsey
+- Lili Reinhart
 
 ## Inspirational Poems
 
