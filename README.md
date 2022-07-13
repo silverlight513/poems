@@ -26,9 +26,12 @@
 24. [You ignore me](/poems/You%20ignore%20me.txt)
 25. [The pianist](/poems/The%20pianist.txt)
 26. [You're my earworm](/poems/You%27re%20my%20earworm.txt)
-27. [Rose petal clouds](/poems/Rose%20petal%20clouds.txt)
+27. [Confused](/poems/Confused.txt)
+28. [Rose petal clouds](/poems/Rose%20petal%20clouds.txt)
 
 # Snippets
+
+(One stanza poems)
 
 1. [Nature](/snippets/Nature.snippet.txt)
 2. [Beautiful](/snippets/Beautiful.snippet.txt)
@@ -42,7 +45,6 @@
 10. [Blind leaps](/snippets/Blind%20leaps.snippet.txt)
 11. [Rainbow](/snippets/Rainbow.snippet.txt)
 12. [A mans anger](/snippets/A%20mans%20anger.snippet.txt)
-13. [Confused](/snippets/Confused.snippet.txt)
 
 # Cerddi
 
