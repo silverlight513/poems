@@ -28,6 +28,7 @@
 26. [You're my earworm](/poems/You%27re%20my%20earworm.txt)
 27. [Confused](/poems/Confused.txt)
 28. [Rose petal clouds](/poems/Rose%20petal%20clouds.txt)
+29. [Emily](/poems/Emily.txt)
 
 # Snippets
 
