@@ -28,8 +28,7 @@
 26. [You're my earworm](/poems/You%27re%20my%20earworm.txt)
 27. [Confused](/poems/Confused.txt)
 28. [Rose petal clouds](/poems/Rose%20petal%20clouds.txt)
-29. [Emily](/poems/Emily.txt)
-30. [Someone else's eyes](/poems/Someone%20else's%20eyes.txt)
+29. [Someone else's eyes](/poems/Someone%20else's%20eyes.txt)
 
 # Snippets
 
@@ -47,6 +46,7 @@
 10. [Blind leaps](/snippets/Blind%20leaps.snippet.txt)
 11. [Rainbow](/snippets/Rainbow.snippet.txt)
 12. [A mans anger](/snippets/A%20mans%20anger.snippet.txt)
+13. [Emily](/snippets/Emily.txt)
 
 # Cerddi
 
