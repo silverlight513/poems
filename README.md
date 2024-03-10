@@ -30,6 +30,7 @@
 28. [Rose petal clouds](/poems/Rose%20petal%20clouds.txt)
 29. [Someone else's eyes](/poems/Someone%20else's%20eyes.txt)
 30. [I Lay](/poems/I%20lay.txt)
+31. [The clouds (part one)](/poems/The%20clouds%20part%20one.txt)
 
 # Snippets
 
