@@ -32,6 +32,7 @@
 30. [I Lay](/poems/I%20lay.txt)
 31. [The clouds (part one)](/poems/The%20clouds%20part%20one.txt)
 32. [The clouds (part two)](/poems/The%20clouds%20part%20two.txt)
+33. [Writers block](/poems/Writers%20block.txt)
 
 # Snippets
 
