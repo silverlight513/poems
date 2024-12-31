@@ -36,6 +36,7 @@
 34. [I have no use for flowers](/poems/I%20have%20no%20use%20for%20flowers.txt)
 35. [A race against the clouds](/poems/A%20race%20against%20the%20clouds.txt)
 36. [The end](/poems/The%20end.txt)
+37. [In the dark](/poems/In%20the%20dark.txt)
 
 # Snippets
 
