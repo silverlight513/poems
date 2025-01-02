@@ -37,6 +37,7 @@
 35. [A race against the clouds](/poems/A%20race%20against%20the%20clouds.txt)
 36. [The end](/poems/The%20end.txt)
 37. [In the dark](/poems/In%20the%20dark.txt)
+38. [Instructions to a better life](/poems/Instructions%20to%20a%20better%20life.txt)
 
 # Snippets
 
