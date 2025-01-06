@@ -38,6 +38,7 @@
 36. [The end](/poems/The%20end.txt)
 37. [In the dark](/poems/In%20the%20dark.txt)
 38. [Instructions to a better life](/poems/Instructions%20to%20a%20better%20life.txt)
+39. [The abrupt ending](/poems/The%20abrupt%20ending.txt)
 
 # Snippets
 
