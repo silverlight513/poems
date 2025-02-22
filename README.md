@@ -39,6 +39,7 @@
 37. [In the dark](/poems/In%20the%20dark.txt)
 38. [Instructions to a better life](/poems/Instructions%20to%20a%20better%20life.txt)
 39. [The abrupt ending](/poems/The%20abrupt%20ending.txt)
+40. [By marched boot](/poems/By%20marched%20boot.txt)
 
 # Snippets
 
