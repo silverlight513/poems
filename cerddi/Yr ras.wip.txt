@@ -24,7 +24,7 @@ Rhedeg a Rhedeg,
 Cyflyma a cyflyma.
 
 Rasio calon, chwys yn diferu.
-
+Llais wedi'i atal
 
 
 Mwy o wybodaeth:
@@ -60,4 +60,4 @@ Run and run,
 Faster and faster.
 
 Heart racing, sweat dripping.
-
+Voice suspended
