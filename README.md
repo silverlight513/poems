@@ -63,6 +63,7 @@
 # Cerddi
 
 1. [Harddwch](/cerddi/Harddwch.txt)
+2/ [Yr ras](/cerddi/Yr%20ras.txt)
 
 # Dyfyniadau
 
