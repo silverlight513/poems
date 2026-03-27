@@ -43,6 +43,7 @@
 41. [Malignant melancholy](/poems/Malignant%20melancholy.txt)
 42. [Silent sadness](/poems/Silent%20sadness.txt)
 43. [My name](/poems/My%20name.txt)
+44. [Crying in a field](/poems/Crying%20in%20a%20field.txt)
 
 # Snippets
 
