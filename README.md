@@ -44,6 +44,7 @@
 42. [Silent sadness](/poems/Silent%20sadness.txt)
 43. [My name](/poems/My%20name.txt)
 44. [Crying in a field](/poems/Crying%20in%20a%20field.txt)
+45. [We're note the same](/poems/We're%20not%20the%20same.txt)
 
 # Snippets
 
