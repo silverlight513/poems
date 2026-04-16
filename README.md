@@ -45,6 +45,7 @@
 43. [My name](/poems/My%20name.txt)
 44. [Crying in a field](/poems/Crying%20in%20a%20field.txt)
 45. [We're note the same](/poems/We're%20not%20the%20same.txt)
+46. [Our morning walk](/poems/Our%20morning%20walk.txt)
 
 # Snippets
 
@@ -84,7 +85,7 @@
 - William Butler Yeats
 - Dafydd ap Gwilym
 - Halsey
-- Lili Reinhart
+- Savannah Brown
 
 ## Inspirational Poems
 
