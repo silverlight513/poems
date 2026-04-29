@@ -46,6 +46,7 @@
 44. [Crying in a field](/poems/Crying%20in%20a%20field.txt)
 45. [We're note the same](/poems/We're%20not%20the%20same.txt)
 46. [Our morning walk](/poems/Our%20morning%20walk.txt)
+47. [I'm not like the others](/poems/I'm%20not%20like%20the%20others.txt)
 
 # Snippets
 
