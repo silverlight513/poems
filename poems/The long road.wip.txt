@@ -1,9 +1,9 @@
-Working title: Life in the city (rework the title)
+Working title: The long road
 
 1.
 Imagine, for a moment, 
 you're standing still, motionless,
-on the side of a long road.
+on the side of a long straight road.
 
 2.
 There's no cars, no people.
@@ -11,14 +11,14 @@ Just towering office blocks
 lining each side as far as you can see.
 
 3.
-So you walk, along this empty street.
-Inspecting the buildings you pass.
+So you start to walk, slowly, cautiously,
+Inspecting the buildings as you pass.
 Noticing everything is identical, sterile.
 
 4.
 Inside the nearest building, atop the front desk. 
-There's a small brass nameplate.
-Ready for guests to address an empty chair. // This doesn't make sense anymore
+There's a lone brass nameplate.
+That simply reads, A. Jones.
 
 5.
 There's no one inside. 
@@ -32,8 +32,8 @@ But the door doesn't budge.
 
 7.
 So you continue on your way.
-walking further and further down the lonely road.
-You pass ten and ten more. // This doesn't make sense anymore
+walking further and further down the road.
+You pass ten buildings, then ten more.
 
 8.
 Inside each and every one,
