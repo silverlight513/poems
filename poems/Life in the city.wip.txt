@@ -2,23 +2,23 @@ Working title: Life in the city (rework the title)
 
 1.
 Imagine, for a moment, 
-you're standing on the side 
-of an empty asphalt road.
+you're standing still, motionless,
+on the side of a long road.
 
 2.
 There's no cars, no people.
 Just towering office blocks
-following one long road.
+lining each side as far as you can see.
 
 3.
 So you walk, along this empty street.
 Inspecting the buildings you pass.
-They all look the same. // This doesn't vibe but has the right content
+Noticing everything is identical, sterile.
 
 4.
-To your left, inside the building, atop the front desk. 
+Inside the nearest building, atop the front desk. 
 There's a small brass nameplate.
-Ready for guests to address an empty chair.
+Ready for guests to address an empty chair. // This doesn't make sense anymore
 
 5.
 There's no one inside. 
@@ -31,14 +31,14 @@ pulling and pushing.
 But the door doesn't budge.
 
 7.
-So you continue down the street.
-walking by more office blocks.
-You pass ten and ten more.
+So you continue on your way.
+walking further and further down the lonely road.
+You pass ten and ten more. // This doesn't make sense anymore
 
 8.
 Inside each and every one,
 sits an empty chair
-and a new name, on their small brass nameplate.
+and a new name, on their small brass plate.
 
 9.
 The road keeps going,
