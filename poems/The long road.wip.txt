@@ -38,14 +38,14 @@ You pass ten buildings, then ten more.
 8.
 Inside each and every one,
 sits an empty chair
-and a new name, on their small brass plate.
+and a new name, on a small brass plate.
 
 9.
-The road keeps going,
+And the road keeps going,
 the offices continue towering.
 And you're here, on the road.
 
-10.
+10. // This needs more...
 You're alone
 
 
