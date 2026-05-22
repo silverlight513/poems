@@ -13,7 +13,7 @@ lining each side as far as you can see.
 3.
 So you start to walk, slowly, cautiously,
 Inspecting the buildings as you pass.
-Noticing everything is identical, sterile.
+Noticing everything's identical, sterile.
 
 4.
 Inside the nearest building, atop the front desk. 
@@ -33,7 +33,7 @@ But the door doesn't budge.
 7.
 So you continue on your way.
 walking further and further down the road.
-You pass ten buildings, then ten more.
+You pass ten buildings, then a hundred more.
 
 8.
 Inside each and every one,
@@ -45,8 +45,10 @@ And the road keeps going,
 the offices continue towering.
 And you're here, on the road.
 
-10. // This needs more...
-You're alone
+10. 
+No where to turn to,
+no where to shelter.
+A stranger amongst loneliness.
 
 
 More Info:
