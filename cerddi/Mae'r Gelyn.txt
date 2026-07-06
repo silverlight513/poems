@@ -10,7 +10,7 @@ Fy mhoen oddi wrthyt ti.
 Mae'r frwydr wedi newid.
 Mae'r hen elyn yma i aros.
 All e ddim trawsnewid
-A newid am y brwydr newydd.
+A newid am y brwydr ma newydd.
 
 3.
 A heb bobl fel e, dwi'n gobeithio
@@ -39,7 +39,7 @@ My pain from you.
 The battle has changed.
 The old enemy is here to stay.
 He cannot transform
-and change for the new battle.
+and change for this new battle.
 
 And without people like him, I'm hopeful
 We can continue to grow.
