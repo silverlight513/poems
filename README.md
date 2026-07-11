@@ -49,6 +49,7 @@
 47. [I'm not like the others](/poems/I'm%20not%20like%20the%20others.txt)
 48. [I resent my fellow man](/poems/I%20resent%20my%20fellow%20man.txt)
 49. [The long road](/poems/The%20long%20road.txt)
+50. [Untethered rage](/poems/Untethered%20rage.txt)
 
 # Snippets
 
