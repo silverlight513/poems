@@ -72,6 +72,7 @@
 14. [You are poetry](/snippets/You%20are%20poetry.txt)
 15. [Pain behind the eyes](/snippets/Pain%20behind%20the%20eyes.snippet.txt)
 16. [Your hand](/snippets/Your%20hand.snippet.txt)
+17. [Obstacles](/snippets/Obstacles.snippet.txt)
 
 # Cerddi
 
