@@ -80,6 +80,7 @@
 1. [Harddwch](/cerddi/Harddwch.txt)
 2. [Y ras](/cerddi/Y%20ras.txt)
 3. [Mae'r Gelyn](/cerddi/Mae'r%20Gelyn.txt)
+4. [Dy dewis](/cerddi/Dy%20dewis.txt)
 
 # Dyfyniadau
 
