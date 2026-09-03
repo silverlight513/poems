@@ -51,6 +51,8 @@
 49. [The long road](/poems/The%20long%20road.txt)
 50. [Willful kindness](/poems/Willful%20kindness.txt)
 51. [Untethered rage](/poems/Untethered%20rage.txt)
+52. [No words](/poems/No%20words.txt)
+53. [Swallow that hungry pride](/poems/Swallow%20that%20hungry%20pride.txt)
 
 # Snippets
 
